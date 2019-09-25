@@ -1,0 +1,28 @@
+input[type="file"]{
+    display: none;
+}
+.cursive{
+    font-family: 'Pacifico', cursive;
+}
+#info{
+background-color: #e6e6e6;
+left: 0.8%;
+border-radius: 6px;
+padding: 20px;
+}
+#select_img{
+    position: absolute;
+    top:55.8%;
+    right: 10.3%;
+}
+#insert_post{
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-top:  1%;
+}
+#post{
+    position: absolute;
+    top: 55.8%;
+    right: 18.3%;
+    min-width: 100px;
+}
